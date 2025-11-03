@@ -48,7 +48,7 @@ export default function Hero() {
                 </div>
                 <div className="rounded-lg bg-gray-50 p-4">
                   <p className="font-semibold text-gray-900">COF/Hold seguro</p>
-                  <p className="mt-1 text-gray-600">COF ≥ 7 días · Hold < 7 días. Void al asistir, capture solo si no-show.</p>
+                  <p className="mt-1 text-gray-600">COF ≥ 7 días · Hold &lt; 7 días. Void al asistir, capture solo si no-show.</p>
                 </div>
                 <div className="rounded-lg bg-gray-50 p-4">
                   <p className="font-semibold text-gray-900">Conciliación automática</p>
